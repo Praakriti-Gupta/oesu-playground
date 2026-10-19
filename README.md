@@ -8,7 +8,7 @@ A tiny Python projetc for **ö-esu-esu** sessions. Use it to practise finding yo
 
 ## What you need
 
-- Python 3.9 or newer
+- Python 3.9
 - Git
 - A GitHub account
 
