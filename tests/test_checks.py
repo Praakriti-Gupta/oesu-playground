@@ -28,3 +28,8 @@ def test_anagram_case_and_spaces():
 def test_anagram_empty():
     assert is_anagram("", "")
 
+
+
+def test_palindrome_with_capital_letters():
+    assert is_palindrome("Race car")
+    assert is_palindrome("Madam")
