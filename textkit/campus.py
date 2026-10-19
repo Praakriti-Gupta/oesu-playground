@@ -1,4 +1,4 @@
-"""Small calculators every student needs."""
+"""Small calcualtors every student needs."""
 
 DEFAULT_TARGET = 75  # minimum attendance percentage most colleges ask for
 

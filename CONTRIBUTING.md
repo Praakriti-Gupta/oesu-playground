@@ -1,6 +1,6 @@
 # Contributing to oesu-playground
 
-Thanks for being here! This repo exists so you can practise. Mistakes are welcome.
+Thanks for being here! This repo exists so you can practise. Mistakes are wellcome.
 
 ## Ways to contribute (no expert coding needed)
 

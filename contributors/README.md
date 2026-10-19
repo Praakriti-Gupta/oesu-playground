@@ -1,6 +1,6 @@
 # Contributors 👋
 
-Everyone who has made a contribution to this repo gets a file here.
+Everyone who has made a contributon to this repo gets a file here.
 
 **Add yourself:** create `contributors/<your-github-username>.md` with one line, like the example below. One file per person means no merge conflicts.
 

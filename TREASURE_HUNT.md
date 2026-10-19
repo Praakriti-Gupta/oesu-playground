@@ -1,6 +1,6 @@
 # 🔍 Treasure hunt
 
-Find the answers by exploring this repo on GitHub. You don't need to clone anything.
+Find the answers by exploreing this repo on GitHub. You don't need to clone anything.
 
 **Tricks to try:** press `t` to search for a file, `/` to search the code, and `.` to open the repo in a full editor in your browser.
 
